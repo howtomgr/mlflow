@@ -1,0 +1,64 @@
+{
+  "category": "data-science",
+  "created_date": "2025-09-15T22:48:58.231339",
+  "default_ports": [
+    80,
+    443,
+    5000
+  ],
+  "dependencies": [
+    "python3",
+    "python3-pip"
+  ],
+  "description": "mlflow is a free and open-source ML lifecycle. MLflow provides open source platform for ML lifecycle",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/data-science/mlflow",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/data-science/mlflow",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.231367",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "mlflow",
+  "repository_url": "https://github.com/howtomgr/mlflow",
+  "spec_version": "2.0",
+  "subcategory": "data-science",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "data-science",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "mlflow Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/data-science/mlflow"
+}
